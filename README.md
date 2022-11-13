@@ -30,5 +30,5 @@
 > Sazonalidade
 
 > Ruido
-> Previsão do Crescimento das infeccoTaes usando o ARIMA
-> Previsão do momento de estabilizacao da COVID usando a biblioteca do Facebook fbprophet
+> Previsão do Crescimento das infecções usando o ARIMA
+> Previsão do momento de estabilização da COVID usando a biblioteca do Facebook fbprophet
