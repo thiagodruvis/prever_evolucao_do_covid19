@@ -1,7 +1,7 @@
 ##  Prevendo a Evolução da Covid-19
 
 
-Primeiro vamos importar algumas das bibliotecas necessárias para nosso projeto de hoje.
+>Primeiro vamos importar algumas das bibliotecas necessárias para nosso projeto de hoje.
 
 >Importacao da base de dados para analise
 
